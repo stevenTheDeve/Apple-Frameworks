@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Apple_FrameworksApp: App {
+struct AppleFrameworksApp: App {
     var body: some Scene {
         WindowGroup {
             FrameworkGridview()
